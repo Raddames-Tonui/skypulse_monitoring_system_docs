@@ -1,0 +1,8 @@
+{
+  "label": "Events and Tasks",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains the backend structure of skypulse system"
+  }
+}

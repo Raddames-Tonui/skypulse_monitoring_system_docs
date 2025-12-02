@@ -1,0 +1,8 @@
+{
+  "label": "System Setup",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains the System Setup Guide for SkyPulse Monitoring system"
+  }
+}
